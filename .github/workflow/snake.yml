@@ -2,24 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: gustavopsan
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - name: Push to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
