@@ -41,9 +41,8 @@
 
 ## 🧠 Projetos em destaque
 
-🚧 Em construção... (mas aqui é onde você vai brilhar)
+🚧 Em construção...
 
-Sugestão:
 - 🔥 PDV / ERP
 - 🎓 Plataforma AVA
 - 🤖 Chatbot WhatsApp
