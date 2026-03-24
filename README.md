@@ -1,53 +1,92 @@
-<h2 align="left">Olá 👋! Meu nome é Gustavo e eu sou Desenvolvedor Fullstack</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gustavopsan/count.svg?"  />
-</div>
-
-###
+<h1 align="center">👨‍💻 Gustavo P. Santana</h1>
+<h3 align="center">Desenvolvedor Fullstack | Criando soluções inteligentes, escaláveis e fora da curva 🚀</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=gustavopsan" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=gustavopsan" height="150" alt="languages graph"  />
+  <img src="https://komarev.com/ghpvc/?username=gustavopsan&label=Visualizações&color=0e75b6&style=flat" />
 </div>
 
-###
+---
+
+## 🚀 Sobre mim
+
+- 💼 Desenvolvedor Fullstack focado em **Node.js, React e arquitetura de sistemas**
+- ⚡ Experiência com **APIs escaláveis, integrações e sistemas complexos**
+- 🧠 Sempre buscando soluções inteligentes e fora do padrão
+- 🚀 Criando projetos próprios e produtos digitais
+
+---
+
+## 🛠️ Stack principal
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" width="42" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" width="42" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="30" width="42" alt="safari logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" width="42" alt="yarn logo"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mysql,git,github,vscode,sass" />
 </div>
 
-###
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavopsan&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavopsan&layout=compact&theme=dracula&hide_border=true" height="150"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavopsan&theme=dracula&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🧠 Projetos em destaque
+
+🚧 Em construção... (mas aqui é onde você vai brilhar)
+
+Sugestão:
+- 🔥 PDV / ERP
+- 🎓 Plataforma AVA
+- 🤖 Chatbot WhatsApp
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavopsan&theme=dracula" />
+</div>
+
+---
+
+## 🐍 Snake (contribuições)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gustavopsan/gustavopsan/output/snake.svg" />
+</div>
+
+---
+
+## 🌐 Contato
 
 <div align="center">
   <a href="https://instagram.com/gustavopsantana4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:gustavopsantana.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  
+  <a href="mailto:gustavopsantana.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/gustavo-p-santana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
-###
+---
+
+## ⚡ Bora construir algo?
+
+Se você curte tecnologia, automação ou quer tirar uma ideia do papel:
+
+👉 Me chama no LinkedIn ou manda um email  
+👉 Sempre aberto a projetos e parcerias
